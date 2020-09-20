@@ -18,8 +18,15 @@
 **Languages and Tools:**  
 
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/mlab-1.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/html-5.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/php.svg"></code>
+
+
 
   
 
