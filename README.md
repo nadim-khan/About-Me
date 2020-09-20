@@ -18,7 +18,7 @@
 **Languages and Tools:**  
 
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logo/mlab-1"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/mlab-1"></code>
   
 
 <a href="https://github.com/nadim-khan">
